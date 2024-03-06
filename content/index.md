@@ -1,7 +1,7 @@
 ---
 title: Welcome to Quartz
 tags:
-  - welcome
+ - welcome
 ---
 
 This is a blank Quartz installation.

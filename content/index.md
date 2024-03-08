@@ -1,10 +1,10 @@
 ---
 share: true
-description: 笔记博客
+description: 欢迎来到我的笔记博客
 aliases: 
 tags: 
 draft: false
-title: 欢迎来到我的笔记博客
+title: Sean的笔记博客
 date: 2024-03-06
 updated: 2024-03-06
 ---

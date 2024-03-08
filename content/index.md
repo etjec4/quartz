@@ -26,4 +26,12 @@ updated: 2024-03-08
 
 其他想起来再更新吧~
 
-![[./attachments/db4320b1e5b4bac3b063a87d8335ad635b776137c59db3c1ccae07042f375c38.png|db4320b1e5b4bac3b063a87d8335ad635b776137c59db3c1ccae07042f375c38.png]]
+对了，文章的所有链接都在这里
+
+
+**[[./posts|POSTS目录]]**
+
+
+**[[./摘抄| 摘抄 目录]]**
+
+![[./attachments/db4320b1e5b4bac3b063a87d8335ad635b776137c59db3c1ccae07042f375c38.png|]]

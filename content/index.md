@@ -6,7 +6,7 @@ tags:
 draft: false
 title: index
 date: 2024-03-06
-updated: 2024-03-08
+updated: 2024-03-09
 ---
 # 这里是什么
 
@@ -34,4 +34,4 @@ updated: 2024-03-08
 
 **[[./摘抄| 摘抄 目录]]**
 
-![[./attachments/db4320b1e5b4bac3b063a87d8335ad635b776137c59db3c1ccae07042f375c38.png|]]
+![[./attachments/db4320b1e5b4bac3b063a87d8335ad635b776137c59db3c1ccae07042f375c38.png|db4320b1e5b4bac3b063a87d8335ad635b776137c59db3c1ccae07042f375c38.png]]

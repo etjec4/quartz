@@ -4,11 +4,18 @@ description: 欢迎来到我的笔记博客
 aliases: 
 tags: 
 draft: false
-title: index
+title: 欢迎来到Inote
 date: 2024-03-06
 updated: 2024-03-09
 ---
+
+
+**[[./posts|POSTS目录]]** 
+
+**[[./摘抄与标注| 摘抄 目录]]**
+
 # 这里是什么
+
 
 这是一个知识笔记，没什么正经的内容，就是浏览互联网的时候的摘抄
 
@@ -29,9 +36,9 @@ updated: 2024-03-09
 对了，文章的所有链接都在这里
 
 
-**[[./posts|POSTS目录]]**
 
 
-**[[./摘抄| 摘抄 目录]]**
 
-![[./attachments/db4320b1e5b4bac3b063a87d8335ad635b776137c59db3c1ccae07042f375c38.png|db4320b1e5b4bac3b063a87d8335ad635b776137c59db3c1ccae07042f375c38.png]]
+
+
+![[db4320b1e5b4bac3b063a87d8335ad635b776137c59db3c1ccae07042f375c38.png]]

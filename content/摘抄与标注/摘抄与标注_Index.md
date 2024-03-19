@@ -14,3 +14,6 @@ updated: 2024-03-19
 - [[./多动症|多动症]]
 - [[./激素|激素]]
 - [[./社会化学习|社会化学习]]
+
+
+[[./AI generated/why does  Excessive screen time can negatively impact attention|why does  Excessive screen time can negatively impact attention]]

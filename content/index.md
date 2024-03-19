@@ -4,15 +4,14 @@ description: 欢迎来到我的笔记博客
 aliases: 
 tags: 
 draft: false
-title: 欢迎来到Inote
+title: index
 date: 2024-03-06
-updated: 2024-03-09
+updated: 2024-03-19
 ---
 
 
-# **[[./posts|POSTS目录]]** 
+# **[[./tags/obsidian-auto-glossary|所有目录]]** 
 
-# **[[./摘抄与标注| 摘抄 目录]]**
 
 # 这里是什么
 
@@ -32,12 +31,6 @@ updated: 2024-03-09
 博客用起来感觉没有这个好玩，就把他仍在主页面了
 
 其他想起来再更新吧~
-
-对了，文章的所有链接都在这里
-
-
-
-
 
 
 

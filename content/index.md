@@ -8,8 +8,11 @@ title: index
 date: 2024-05-10
 updated: 2024-05-10
 ---
-Hello World
+- 这是网站的首页，个人笔记分享
+- 想了解如何做这样的网站，参考 [[./posts/该博客是如何工作的|该博客是如何工作的]]
 
-[Posts目录](../posts)
-[Posts目录](./posts)
-![[./attachments/db4320b1e5b4bac3b063a87d8335ad635b776137c59db3c1ccae07042f375c38.png|db4320b1e5b4bac3b063a87d8335ad635b776137c59db3c1ccae07042f375c38.png]]
+# 目录为
+
+- [Posts目录](../posts)
+- [摘抄与标注](./摘抄与标注)
+

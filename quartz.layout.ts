@@ -28,6 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.RecentNotes({ limit: 5, title: "Recent writing"}),
+	Component.RecentNotes({ linkToMore: "Posts" }),
   ],
   right: [
     Component.Graph(),
@@ -45,6 +46,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.RecentNotes({ limit: 5, title: "Recent writing"}),
+	Component.RecentNotes({ linkToMore: "Posts" }),
   ],
   right: [],
 }

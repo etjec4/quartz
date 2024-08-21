@@ -28,9 +28,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.RecentNotes({ 
-	limit: 5, 
-	title: "Recent writing",
+	limit: 4, 
+	title: "Recent Writings",
 	linkToMore: "Posts/" as SimpleSlug,
+	}),
+    Component.RecentNotes({ 
+	limit: 4, 
+	title: "Recent Excerpts",
+	linkToMore: "Excerpts/" as SimpleSlug,
 	}),
   ],
   right: [
@@ -49,9 +54,14 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.RecentNotes({ 
-	limit: 5, 
-	title: "Recent writing",
+	limit: 4, 
+	title: "Recent Writings",
 	linkToMore: "Posts/" as SimpleSlug,
+	}),
+    Component.RecentNotes({ 
+	limit: 4, 
+	title: "Recent Excerpts",
+	linkToMore: "Excerpts/" as SimpleSlug,
 	}),
   ],
   right: [],

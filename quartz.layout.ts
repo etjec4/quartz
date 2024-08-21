@@ -31,15 +31,24 @@ export const defaultContentPageLayout: PageLayout = {
 	limit: 4, 
 	title: "Recent Writings",
 	linkToMore: "Posts/" as SimpleSlug,
+	showTags: false,
 	}),
     Component.RecentNotes({ 
-	limit: 4, 
+	limit: 2, 
 	title: "Recent Excerpts",
 	linkToMore: "Excerpts/" as SimpleSlug,
+	showTags: false,
 	}),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        showTags: false,
+      },
+      globalGraph: {
+        showTags: false,
+      },
+	}),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -57,11 +66,13 @@ export const defaultListPageLayout: PageLayout = {
 	limit: 4, 
 	title: "Recent Writings",
 	linkToMore: "Posts/" as SimpleSlug,
+	showTags: false,
 	}),
     Component.RecentNotes({ 
-	limit: 4, 
+	limit: 2, 
 	title: "Recent Excerpts",
 	linkToMore: "Excerpts/" as SimpleSlug,
+	showTags: false,
 	}),
   ],
   right: [],

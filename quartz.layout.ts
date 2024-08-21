@@ -27,20 +27,25 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.RecentNotes({ 
-	limit: 4, 
-	title: "Recent Writings",
-	linkToMore: "Posts/" as SimpleSlug,
-	filter: (f) => f.slug!.startsWith("Posts/"),
-	showTags: false,
-	}),
-    Component.RecentNotes({ 
-	limit: 2, 
-	title: "Recent Excerpts",
-	linkToMore: "Excerpts/" as SimpleSlug,
-	filter: (f) => f.slug!.startsWith("Excerpts/"),
-	showTags: false,
-	}),
+
+	 Component.DesktopOnly(
+		Component.RecentNotes({ 
+		limit: 4, 
+		title: "Recent Writings",
+		filter: (f) => f.slug!.startsWith("Posts/"),
+		linkToMore: "Posts/" as SimpleSlug,
+		showTags: false,
+		}),
+		Component.RecentNotes({ 
+		limit: 2, 
+		title: "Recent Excerpts",
+		filter: (f) => f.slug!.startsWith("Excerpts/"),
+		linkToMore: "Excerpts/" as SimpleSlug,
+		showTags: false,
+		}),
+	),
+
+
   ],
   right: [
     Component.Graph({
@@ -64,20 +69,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.RecentNotes({ 
-	limit: 4, 
-	title: "Recent Writings",
-	linkToMore: "Posts/" as SimpleSlug,
-	filter: (f) => f.slug!.startsWith("Posts/"),
-	showTags: false,
-	}),
-    Component.RecentNotes({ 
-	limit: 2, 
-	title: "Recent Excerpts",
-	linkToMore: "Excerpts/" as SimpleSlug,
-	filter: (f) => f.slug!.startsWith("Excerpts/"),
-	showTags: false,
-	}),
   ],
   right: [],
 }

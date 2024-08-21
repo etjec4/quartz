@@ -27,8 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-
-	 Component.DesktopOnly(
+	Component.DesktopOnly(
 		Component.RecentNotes({ 
 		limit: 4, 
 		title: "Recent Writings",
@@ -36,6 +35,8 @@ export const defaultContentPageLayout: PageLayout = {
 		linkToMore: "Posts/" as SimpleSlug,
 		showTags: false,
 		}),
+	),
+	Component.DesktopOnly(
 		Component.RecentNotes({ 
 		limit: 2, 
 		title: "Recent Excerpts",
@@ -44,8 +45,6 @@ export const defaultContentPageLayout: PageLayout = {
 		showTags: false,
 		}),
 	),
-
-
   ],
   right: [
     Component.Graph({

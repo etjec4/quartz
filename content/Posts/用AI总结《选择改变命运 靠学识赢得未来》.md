@@ -6,9 +6,9 @@ tags:
   - AI
   - 自我提升
 draft: false
-title: 用AI总结一本书
+title: 用AI总结《选择改变命运 靠学识赢得未来》
 date: 2024-08-29
-updated: 2024-08-29
+updated: 2024-09-03
 ---
 原始链接放在这里
 <https://gusangciren.github.io/#/fate/>

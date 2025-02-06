@@ -6,8 +6,11 @@ tags:
 draft: false
 title: 使用TTS-Vue 将文本制作成语音朗读
 date: 2024-09-25
-updated: 2024-09-25
+updated: 2025-02-06
 ---
+**软件接口可能已经失效**
+
+
 免费的应用总是让人兴奋。软件使用了微软的edge接口。
 
 

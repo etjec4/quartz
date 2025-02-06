@@ -5,7 +5,7 @@ aliases:
 tags:
   - 医学
   - AI
-draft: true
+draft: false
 title: 对比 Sulforaphane (萝卜硫素) 和 Lipoic Acid (硫辛酸) 的功能。
 date: 2025-02-06
 updated: 2025-02-06
